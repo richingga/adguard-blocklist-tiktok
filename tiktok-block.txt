@@ -6,8 +6,3 @@
 ||ibyteimg.com^
 ||muscdn.com^
 ||musical.ly^
-||snssdk.com^
-||dns.google^
-||cloudflare-dns.com^
-||mozilla.cloudflare-dns.com^
-||dns.quad9.net^
